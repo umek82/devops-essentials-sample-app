@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.1.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2cJMzerKXdA/PgPwqWdGCXEvT+uxmsr8Pae1fHbzkzDVQ0o8esy1q2rfhZPoZ6+hHV7lHWb9+PKdV3G95zHVjtqxIhD2Ecdh9rbAvVw86FpHRHJMisrN3ie1kPDuQo/Srq1R6Pi7W4RfEatPHFsJoz+8IsyMkevwyygOtzYldfP3+en2zVpJfwRGkF8OO84pCdUEYnbW+3ckP+emirr0wDkjB1gj+Sb6rBjdgfW6CIT7wnbPFoV8IbgMM/phnEEqKN5CD8Ys4apw7D6OHuzk61GdfdXrkcEDQy9toTucm7moiHoCPCGOLTi9Wa9UQuS9ArEB6NTeQgLSdjFQhnINh josebermejorodriguez@penguin
